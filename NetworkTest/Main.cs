@@ -73,7 +73,6 @@ public class NetworkTest : MelonMod {
             }
 
             MelonLogger.Msg("Sending Lop important info! L");
-            var a = new [] { "5affbc06-d288-f39b-6fd0-b54a51b86612" };
             SendMsgToSpecificPlayers($"[{AuthManager.username}] I like Specific!", new List<string> {"5affbc06-d288-f39b-6fd0-b54a51b86612"});
         }
 

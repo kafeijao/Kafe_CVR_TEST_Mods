@@ -6,9 +6,9 @@ Just testing mods, don't use them if you don't know what you're doing.
 
 ## Mods
 
-| Mod name                | More Info                                         | Latest                                                                                                                                                                                                                               | State      | Description                                         |
-|-------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------|
-| NetworkTest             | [README.md](NetworkTest/README.md)                | [![Download Latest NetworkTest.dll](.Resources/DownloadButtonEnabled.svg "Download Latest NetworkTest.dll")](https://github.com/kafeijao/Kafe_CVR_Mods/releases/latest/download/NetworkTest.dll)                                     | Developing | Test the modding network                            |
+| Mod name                | More Info                                         | Latest                                                                                                                                                                                                | State      | Description                                                                 |
+|-------------------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------|
+| NetworkTest             | [README.md](NetworkTest/README.md)                | [![Download Latest NetworkTest.dll](.Resources/DownloadButtonEnabled.svg "Download Latest NetworkTest.dll")](https://github.com/kafeijao/Kafe_CVR_TEST_Mods/releases/latest/download/NetworkTest.dll) | Developing | Test mod network. ⚠️ Using this might flag your account for sussy activity! |
 
 ---
 
