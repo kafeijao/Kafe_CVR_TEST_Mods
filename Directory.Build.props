@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <!-- Put your Chillout vr path in a new environnment variable CVRPATH in Windows -->
-        <OutputPath>Ouput/</OutputPath>
+        <OutputPath>.Ouput/</OutputPath>
         <LangVersion>latest</LangVersion>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <TargetFramework>net472</TargetFramework>
