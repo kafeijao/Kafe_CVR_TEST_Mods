@@ -1,6 +1,8 @@
-# Network Test
+# NetworkTest
 
-Test mod network
+[![Download Latest NetworkTest.dll](.Resources/DownloadButtonEnabled.svg "Download Latest NetworkTest.dll")](https://github.com/kafeijao/Kafe_CVR_TEST_Mods/releases/latest/download/NetworkTest.dll)
+
+Test mod network. ⚠️ Using this might flag your account for sussy activity!
 
 ---
 
